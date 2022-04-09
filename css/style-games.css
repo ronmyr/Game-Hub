@@ -6,11 +6,12 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: #12182E;
+
 }
 
 body {    
 
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     background-color:#12182E;
     background-position: cover;
